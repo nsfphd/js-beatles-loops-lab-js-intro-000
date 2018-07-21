@@ -23,8 +23,7 @@ function iLoveTheBeatles(n){
     do {
     arr[i]="I love the Beatles!"
     i++
-    //something
-  } while(i<n);
+  } while(i<=n);
 }
 return arr
 }
